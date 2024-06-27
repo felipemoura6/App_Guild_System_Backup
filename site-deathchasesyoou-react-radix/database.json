@@ -1,0 +1,432 @@
+{
+  "guildStatus": [
+    {
+      "howManyMembers": "40",
+      "howManyOfficers": "3",
+      "faction": "Horde",
+      "id": "44e5"
+    }
+  ],
+  "members": [
+    {
+      "name": "Koema",
+      "class": "Warrior",
+      "race": "Orc",
+      "specialization": "Arms",
+      "note": "High damage",
+      "tier": "A",
+      "image": "./src/assets/characters_imgs/UNKNOWN_img.png",
+      "id": "8710"
+    },
+    {
+      "name": "Musoka",
+      "class": "Warrior",
+      "race": "Tauren",
+      "specialization": "Protection",
+      "note": "Good survality",
+      "tier": "B",
+      "image": "./src/assets/characters_imgs/musoka_img.png",
+      "id": "42b0"
+    },
+    {
+      "name": "Swyprot",
+      "class": "Warrior",
+      "race": "Orc",
+      "specialization": "Protection",
+      "note": "Good movimentation",
+      "tier": "A",
+      "image": "./src/assets/characters_imgs/swyprot_img.png",
+      "id": "93e4"
+    },
+    {
+      "name": "Demonicky",
+      "class": "Warrior",
+      "race": "Orc",
+      "specialization": "Arms",
+      "note": "Fair damage against cloths",
+      "tier": "C",
+      "image": "./src/assets/characters_imgs/demonicky_img.png",
+      "id": "39d3"
+    },
+    {
+      "name": "Blodfury",
+      "class": "Paladin",
+      "race": "Blood Elf",
+      "specialization": "Holy",
+      "note": "Suporter",
+      "tier": "B",
+      "image": "./src/assets/characters_imgs/blodfury_img.png",
+      "id": "8369"
+    },
+    {
+      "name": "Dragonblood",
+      "class": "Paladin",
+      "race": "Blood Elf",
+      "specialization": "Retribuition",
+      "note": "Suporter",
+      "tier": "C",
+      "image": "./src/assets/characters_imgs/dragonblood_img.png",
+      "id": "e792"
+    },
+    {
+      "name": "Amazomprime",
+      "class": "Paladin",
+      "race": "Blood Elf",
+      "specialization": "Retribuition",
+      "note": "Good mana sustain",
+      "tier": "D",
+      "image": "./src/assets/characters_imgs/amazomprime_img.png",
+      "id": "a3be"
+    },
+    {
+      "name": "Liviaa",
+      "class": "Paladin",
+      "race": "Blood Elf",
+      "specialization": "Holy",
+      "note": "Frontline savior",
+      "tier": "A",
+      "image": "./src/assets/characters_imgs/liviaa_img.png",
+      "id": "ec23"
+    },
+    {
+      "name": "Felikis",
+      "class": "Paladin",
+      "race": "Blood Elf",
+      "specialization": "Protection",
+      "note": "Good suporter",
+      "tier": "B",
+      "image": "./src/assets/characters_imgs/felikis_img.png",
+      "id": "26df"
+    },
+    {
+      "name": "Pipimimivivi",
+      "class": "Paladin",
+      "race": "Blood Elf",
+      "specialization": "Holy",
+      "note": "Good healer",
+      "tier": "C",
+      "image": "./src/assets/characters_imgs/pipimimivivi_img.png",
+      "id": "c5b0"
+    },
+    {
+      "name": "Desconhecido",
+      "class": "Death Knight",
+      "race": "Orc",
+      "specialization": "Unholy",
+      "note": "Frontline reference",
+      "tier": "A",
+      "image": "./src/assets/characters_imgs/desconhecido_img.png",
+      "id": "8976"
+    },
+    {
+      "name": "Aterrorizado",
+      "class": "Death Knight",
+      "race": "Orc",
+      "specialization": "Unholy/Frost",
+      "note": "High tanking against spells",
+      "tier": "S",
+      "image": "./src/assets/characters_imgs/aterrorizado_img.png",
+      "id": "f4e4"
+    },
+    {
+      "name": "Worldknightx",
+      "class": "Death Knight",
+      "race": "Orc",
+      "specialization": "Unholy/Frost",
+      "note": "Pestilance damager",
+      "tier": "B",
+      "image": "./src/assets/characters_imgs/worldknightx_img.png",
+      "id": "6a54"
+    },
+    {
+      "name": "Menokiing",
+      "class": "Death Knight",
+      "race": "Orc",
+      "specialization": "Unholy/Frost",
+      "note": "Pestilance spreader",
+      "tier": "A",
+      "image": "./src/assets/characters_imgs/menokiing_img.png",
+      "id": "9aa0"
+    },
+    {
+      "name": "Theronius",
+      "class": "Death Knight",
+      "race": "Orc",
+      "specialization": "Frost",
+      "note": "Higher DK burst",
+      "tier": "S",
+      "image": "./src/assets/characters_imgs/theronius_img.png",
+      "id": "873e"
+    },
+    {
+      "name": "Deadyrogue",
+      "class": "Rogue",
+      "race": "Undead",
+      "specialization": "Subtely",
+      "note": "Undying",
+      "tier": "B",
+      "image": "./src/assets/characters_imgs/deadyrogue_img.png",
+      "id": "8b19"
+    },
+    {
+      "name": "Deadyhunter",
+      "class": "Hunter",
+      "race": "Orc",
+      "specialization": "Marksmanship",
+      "note": "Best penetration kill shot",
+      "tier": "A",
+      "image": "./src/assets/characters_imgs/deadyhunter_img.png",
+      "id": "5524"
+    },
+    {
+      "name": "Kiggshot",
+      "class": "Hunter",
+      "race": "Orc",
+      "specialization": "Marksmanship",
+      "note": "High damage",
+      "tier": "S",
+      "image": "./src/assets/characters_imgs/kiggshot_img.png",
+      "id": "4d50"
+    },
+    {
+      "name": "Manlac",
+      "class": "Hunter",
+      "race": "Troll",
+      "specialization": "Marksmanship",
+      "note": "High damage against cloth",
+      "tier": "A",
+      "image": "./src/assets/characters_imgs/manlac_img.png",
+      "id": "47f8"
+    },
+    {
+      "name": "Shineskay",
+      "class": "Hunter",
+      "race": "Troll",
+      "specialization": "Marksmanship",
+      "note": "Good positioning",
+      "tier": "B",
+      "image": "./src/assets/characters_imgs/shineskay_img.png",
+      "id": "c78c"
+    },
+    {
+      "name": "Cruzzada",
+      "class": "Priest",
+      "race": "Blood Elf",
+      "specialization": "Holy",
+      "note": "High healing",
+      "tier": "S",
+      "image": "./src/assets/characters_imgs/cruzzada_img.png",
+      "id": "c7c0"
+    },
+    {
+      "name": "Tsurugy",
+      "class": "Priest",
+      "race": "Blood Elf",
+      "specialization": "Discipline",
+      "note": "High absorption shields",
+      "tier": "S",
+      "image": "./src/assets/characters_imgs/tsurugy_img.png",
+      "id": "4f3f"
+    },
+    {
+      "name": "Devoring",
+      "class": "Priest",
+      "race": "Undead",
+      "specialization": "Shadow",
+      "note": "High mind-sear damage",
+      "tier": "A",
+      "image": "./src/assets/characters_imgs/devoring_img.png",
+      "id": "4287"
+    },
+    {
+      "name": "Violeth",
+      "class": "Priest",
+      "race": "Blood Elf",
+      "specialization": "Shadow",
+      "note": "Good spells rotation",
+      "tier": "C",
+      "image": "./src/assets/characters_imgs/violeth_img.png",
+      "id": "243b"
+    },
+    {
+      "name": "Vacav",
+      "class": "Priest",
+      "race": "Undead",
+      "specialization": "Discipline",
+      "note": "Good dispeller",
+      "tier": "B",
+      "image": "./src/assets/characters_imgs/vacav_img.png",
+      "id": "9d4e"
+    },
+    {
+      "name": "Replause",
+      "class": "Priest",
+      "race": "Undead",
+      "specialization": "Holy",
+      "note": "Good raid healer",
+      "tier": "B",
+      "image": "./src/assets/characters_imgs/replause_img.png",
+      "id": "999e"
+    },
+    {
+      "name": "Jumpmagic",
+      "class": "Priest",
+      "race": "Troll",
+      "specialization": "Discipline",
+      "note": "Good dispeller",
+      "tier": "A",
+      "image": "./src/assets/characters_imgs/jumpmagic_img.png",
+      "id": "be63"
+    },
+    {
+      "name": "Hitsugai",
+      "class": "Mage",
+      "race": "Blood Elf",
+      "specialization": "Fire",
+      "note": "High area damage",
+      "tier": "S",
+      "image": "./src/assets/characters_imgs/hitsugai_img.png",
+      "id": "86c2"
+    },
+    {
+      "name": "Dariel",
+      "class": "Mage",
+      "race": "Blood Elf",
+      "specialization": "Fire",
+      "note": "High damage",
+      "tier": "A",
+      "image": "./src/assets/characters_imgs/dariel_img.png",
+      "id": "0976"
+    },
+    {
+      "name": "Clemente",
+      "class": "Mage",
+      "race": "Undead",
+      "specialization": "Frost",
+      "note": "High crownd control",
+      "tier": "A",
+      "image": "./src/assets/characters_imgs/clemente_img.png",
+      "id": "4978"
+    },
+    {
+      "name": "Shinsekaii",
+      "class": "Mage",
+      "race": "Troll",
+      "specialization": "Fire",
+      "note": "Living bomb spreader",
+      "tier": "B",
+      "image": "./src/assets/characters_imgs/shinsekai_img.png",
+      "id": "7bf5"
+    },
+    {
+      "name": "Djkeyron",
+      "class": "Mage",
+      "race": "Undead",
+      "specialization": "Fire",
+      "note": "Good killer",
+      "tier": "B",
+      "image": "./src/assets/characters_imgs/djkeyron_img.png",
+      "id": "b46a"
+    },
+    {
+      "name": "Floiidz",
+      "class": "Warlock",
+      "race": "Undead",
+      "specialization": "Destruction",
+      "note": "High damage",
+      "tier": "A",
+      "image": "./src/assets/characters_imgs/Floiidz_img.png",
+      "id": "46a0"
+    },
+    {
+      "name": "Jcleyton",
+      "class": "Warlock",
+      "race": "Undead",
+      "specialization": "Destruction",
+      "note": "Summoning Stone of guild",
+      "tier": "C",
+      "image": "./src/assets/characters_imgs/jcleyton_img.png",
+      "id": "b76d"
+    },
+    {
+      "name": "Espocaally",
+      "class": "Shaman",
+      "race": "Orc",
+      "specialization": "Elemental",
+      "note": "High enemies tank dispell",
+      "tier": "S",
+      "image": "./src/assets/characters_imgs/espocaally_img.png",
+      "id": "a3d3"
+    },
+    {
+      "name": "Tefroyds",
+      "class": "Shaman",
+      "race": "Orc",
+      "specialization": "Elemental",
+      "note": "High burst",
+      "tier": "A",
+      "image": "./src/assets/characters_imgs/tefroyds_img.png",
+      "id": "6922"
+    },
+    {
+      "name": "Packshamann",
+      "class": "Shaman",
+      "race": "Tauren",
+      "specialization": "Restoration",
+      "note": "Fair healing",
+      "tier": "B",
+      "image": "./src/assets/characters_imgs/packshamann_img.png",
+      "id": "57f2"
+    },
+    {
+      "name": "Seafodex",
+      "class": "Shaman",
+      "race": "Troll",
+      "specialization": "Restoration",
+      "note": "Amazing healer",
+      "tier": "S",
+      "image": "./src/assets/characters_imgs/sefodex_img.png",
+      "id": "d0a0"
+    },
+    {
+      "name": "Supersonicc",
+      "class": "Druid",
+      "race": "Tauren",
+      "specialization": "Restoration",
+      "note": "High rejuvenation heals",
+      "tier": "S",
+      "image": "./src/assets/characters_imgs/supersonicc_img.png",
+      "id": "c136"
+    },
+    {
+      "name": "Malokero",
+      "class": "Druid",
+      "race": "Tauren",
+      "specialization": "Balance",
+      "note": "Starfall combination",
+      "tier": "B",
+      "image": "./src/assets/characters_imgs/malokero_img.png",
+      "id": "89f3"
+    },
+    {
+      "name": "Ooverlord",
+      "class": "Druid",
+      "race": "Tauren",
+      "specialization": "Balance",
+      "note": "Starfall combination",
+      "tier": "A",
+      "image": "./src/assets/characters_imgs/ooverlord_img.png",
+      "id": "c764"
+    },
+    {
+      "name": "Polentah",
+      "class": "Druid",
+      "race": "Tauren",
+      "specialization": "Restoration",
+      "note": "Good positioning",
+      "tier": "B",
+      "image": "./src/assets/characters_imgs/polentah_img.png",
+      "id": "46be"
+    }
+  ]
+}
