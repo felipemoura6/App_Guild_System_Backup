@@ -1,4 +1,4 @@
-#Introdução
+**Introdução
 O Sistema de Guild é uma aplicação web desenvolvida para facilitar a administração de guilds, permitindo o cadastro, login, remoção e gestão de membros. Este sistema é ideal para jogos, clubes ou qualquer grupo que necessite de um controle eficiente de seus integrantes.
 
 #Funcionalidades
